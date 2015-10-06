@@ -79,7 +79,7 @@ echo "Testing North America locations";
 
 ### Portland, Oregon, USA (donated by http://bonevm.com)
 echo "Speedtest from Portland, Oregon, USA [ generously donated by http://bonevm.com ] on a shared 100 Mbps port";
-speedtest 100.42.19.110;
+speedtest cachefly.cachefly.net;
 
 ## Seattle, Washington, USA (donated by http://ramnode.com)
 echo "Speedtest from Seattle, Washington, USA [ generously donated by http://ramnode.com ] on on a shared 1 Gbps port";
